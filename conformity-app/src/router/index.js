@@ -1,7 +1,5 @@
-
 import { createRouter, createWebHistory } from 'vue-router';
 import InspectionList from '../components/InspectionList.vue';
-
 
 const routes = [
   {

@@ -1,4 +1,3 @@
-<!-- src/components/InspectionList.vue -->
 <template>
   <div>
     <h1>Container Inspections</h1>
